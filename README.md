@@ -83,6 +83,7 @@
 
 ## JavaScript 
 
+- [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [a35hie/Fonts](https://github.com/a35hie/Fonts) - A collection of hosted web fonts and stylesheets.
 - [brberis/dev-connect-portfolio-sharing](https://github.com/brberis/dev-connect-portfolio-sharing) - Social media platform designed specifically for developers.  Allowing users to create and share their portfolios, comment, and connect with other professionals.
 - [lbrunau/jquery.lazytable](https://github.com/lbrunau/jquery.lazytable) - jquery-powered HTML table for large number of table rows
@@ -221,5 +222,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [shaunkleyn](https://github.com/shaunkleyn) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [sklndev](https://github.com/sklndev) has waived all copyright and related or neighboring rights to this work.
 
