@@ -12,7 +12,6 @@
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
-- [Kotlin](#kotlin)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -95,10 +94,6 @@
 - [joshbtn/excelFormulaUtilitiesJS](https://github.com/joshbtn/excelFormulaUtilitiesJS) - This library contains methods to beautify an excel formula.  This library also contains functions to convert an excel formula to JavaScript (ECMAScript) or C# and python.
 - [bezkoder/react-crud-web-api](https://github.com/bezkoder/react-crud-web-api) - React.js CRUD example to consume Web API
 - [mtallentb/react_inventory_manager](https://github.com/mtallentb/react_inventory_manager) - Inventory Management System built with React, Redux and Rails API
-
-## Kotlin 
-
-- [nonbili/meron](https://github.com/nonbili/meron) - Fast/secure email client with kanban and chat views.
 
 ## Makefile 
 
@@ -198,6 +193,7 @@
 
 ## TypeScript 
 
+- [nonbili/meron](https://github.com/nonbili/meron) - Fast/secure email client with kanban and chat views.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [LukasParke/plexjs](https://github.com/LukasParke/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
