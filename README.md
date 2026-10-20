@@ -7,6 +7,7 @@
 
 - [Batchfile](#batchfile)
 - [C#](#c#)
+- [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
 - [Go](#go)
@@ -44,6 +45,10 @@
 - [Reaparr/Reaparr](https://github.com/Reaparr/Reaparr) - Plex downloader that brings content from any server to yours!
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 - [exceptionnotfound/DataNamesMappingDemo](https://github.com/exceptionnotfound/DataNamesMappingDemo) - 
+
+## C++ 
+
+- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration. Made with love and care, not AI and tracking.
 
 ## CSS 
 
@@ -193,7 +198,7 @@
 
 ## TypeScript 
 
-- [nonbili/meron](https://github.com/nonbili/meron) - Fast/secure email client with kanban and chat views.
+- [nonbili/meron](https://github.com/nonbili/meron) - Fast, secure email client with chat and kanban views.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [LukasParke/plexjs](https://github.com/LukasParke/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
