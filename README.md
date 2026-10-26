@@ -110,6 +110,7 @@
 
 ## Others 
 
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [socalccna54/oneplus13](https://github.com/socalccna54/oneplus13) - Debloat List
 - [sb-ocr/miniature-retro-pc](https://github.com/sb-ocr/miniature-retro-pc) - A nostalgic tiny retro PC
@@ -198,6 +199,7 @@
 
 ## TypeScript 
 
+- [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email for professionals and teams
 - [nonbili/meron](https://github.com/nonbili/meron) - Fast, secure email client with chat and kanban views.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [LukasParke/plexjs](https://github.com/LukasParke/plexjs) - A Typescript SDK for interacting with Plex Media Server
