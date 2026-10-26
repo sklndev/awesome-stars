@@ -329,6 +329,8 @@
 
 ## others 
 
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email for professionals and teams
 - [nonbili/meron](https://github.com/nonbili/meron) - Fast, secure email client with chat and kanban views.
 - [Mudit200408/m3e_dismissible](https://github.com/Mudit200408/m3e_dismissible) - 
 - [RhysFox/webfonts](https://github.com/RhysFox/webfonts) - 
