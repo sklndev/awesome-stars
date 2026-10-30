@@ -8,6 +8,7 @@
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
+- [animation](#animation)
 - [api](#api)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -97,6 +98,11 @@
 
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) - Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
+
+## animation 
+
+- [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
+- [MAGGIx1404/Textify-js](https://github.com/MAGGIx1404/Textify-js) - Next Generation Text Animation Library. (Adding Typescript support...)
 
 ## api 
 
