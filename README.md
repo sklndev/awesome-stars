@@ -13,7 +13,6 @@
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
-- [Kotlin](#kotlin)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -101,10 +100,6 @@
 - [bezkoder/react-crud-web-api](https://github.com/bezkoder/react-crud-web-api) - React.js CRUD example to consume Web API
 - [mtallentb/react_inventory_manager](https://github.com/mtallentb/react_inventory_manager) - Inventory Management System built with React, Redux and Rails API
 
-## Kotlin 
-
-- [nonbili/meron](https://github.com/nonbili/meron) - Fast, secure email client with chat and kanban views.
-
 ## Makefile 
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
@@ -191,6 +186,7 @@
 
 ## Shell 
 
+- [officialzeroxyz/zero-plugins](https://github.com/officialzeroxyz/zero-plugins) - 
 - [RealNath/Font-Awesome-Pro-Free](https://github.com/RealNath/Font-Awesome-Pro-Free) - Download and obtain the latest Font Awesome Pro/Pro+ icons for free (for educational purpose only)
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) - Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [RandomNinjaAtk/docker-lidarr-extended](https://github.com/RandomNinjaAtk/docker-lidarr-extended) - lidarr-extended :: Lidarr application packaged with multiple scripts to provide additional functionality
@@ -205,6 +201,7 @@
 ## TypeScript 
 
 - [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email for professionals and teams
+- [nonbili/meron](https://github.com/nonbili/meron) - Fast, secure email client with chat and kanban views.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [LukasParke/plexjs](https://github.com/LukasParke/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
