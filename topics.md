@@ -45,6 +45,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jquery](#jquery)
+- [knowledge-graph](#knowledge-graph)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -287,6 +288,10 @@
 ## jquery 
 
 - [jschr/textillate](https://github.com/jschr/textillate) - A jquery plugin for CSS3 text animations.
+
+## knowledge-graph 
+
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 
 ## library 
 
