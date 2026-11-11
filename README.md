@@ -7,7 +7,6 @@
 
 - [Batchfile](#batchfile)
 - [C#](#c#)
-- [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
 - [Go](#go)
@@ -45,10 +44,6 @@
 - [Reaparr/Reaparr](https://github.com/Reaparr/Reaparr) - Plex downloader that brings content from any server to yours!
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 - [exceptionnotfound/DataNamesMappingDemo](https://github.com/exceptionnotfound/DataNamesMappingDemo) - 
-
-## C++ 
-
-- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration. Made with love and care, not AI and tracking.
 
 ## CSS 
 
