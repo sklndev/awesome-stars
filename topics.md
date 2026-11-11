@@ -16,7 +16,6 @@
 - [awesome-list](#awesome-list)
 - [bash](#bash)
 - [chatgpt](#chatgpt)
-- [chrome](#chrome)
 - [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
@@ -30,7 +29,6 @@
 - [dotnet](#dotnet)
 - [downloader](#downloader)
 - [electron](#electron)
-- [firefox](#firefox)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [font](#font)
@@ -50,7 +48,6 @@
 - [linux](#linux)
 - [llm](#llm)
 - [login](#login)
-- [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [monitoring](#monitoring)
@@ -146,10 +143,6 @@
 
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
-## chrome 
-
-- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration. Made with love and care, not AI and tracking.
-
 ## claude 
 
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
@@ -214,10 +207,6 @@
 ## electron 
 
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
-
-## firefox 
-
-- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration. Made with love and care, not AI and tracking.
 
 ## flutter 
 
@@ -299,7 +288,6 @@
 
 ## linux 
 
-- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration. Made with love and care, not AI and tracking.
 - [masonr/PLEXiDRIVE](https://github.com/masonr/PLEXiDRIVE) - Scripts to facilitate the use of cloud storage (such as Google Drive) as storage for Plex media server
 
 ## llm 
@@ -309,10 +297,6 @@
 ## login 
 
 - [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source Auth0/Keycloak alternative. Passkeys, SSO, MFA, passwordless, biometric login. Self-hosted or cloud. Enterprise-ready for SaaS & mobile apps
-
-## macos 
-
-- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration. Made with love and care, not AI and tracking.
 
 ## markdown 
 
@@ -548,7 +532,6 @@
 
 ## windows 
 
-- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration. Made with love and care, not AI and tracking.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [SamsidParty/TopNotify](https://github.com/SamsidParty/TopNotify) - The Ultimate Notification Customization Tool For Windows
 - [JuanOrbegoso/Dotfiles-for-Windows-11](https://github.com/JuanOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
