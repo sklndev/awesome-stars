@@ -12,6 +12,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -94,6 +95,10 @@
 - [joshbtn/excelFormulaUtilitiesJS](https://github.com/joshbtn/excelFormulaUtilitiesJS) - This library contains methods to beautify an excel formula.  This library also contains functions to convert an excel formula to JavaScript (ECMAScript) or C# and python.
 - [bezkoder/react-crud-web-api](https://github.com/bezkoder/react-crud-web-api) - React.js CRUD example to consume Web API
 - [mtallentb/react_inventory_manager](https://github.com/mtallentb/react_inventory_manager) - Inventory Management System built with React, Redux and Rails API
+
+## Kotlin 
+
+- [udmodz0/majician](https://github.com/udmodz0/majician) - Majician (UDMODZ Edition) is a next-generation Android system tuning, device identity customization, and spoofing utility engineered with Jetpack Compose and powered by the Shizuku API. Majician gives
 
 ## Makefile 
 
