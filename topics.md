@@ -330,6 +330,7 @@
 
 ## others 
 
+- [udmodz0/majician](https://github.com/udmodz0/majician) - Majician (UDMODZ Edition) is a next-generation Android system tuning, device identity customization, and spoofing utility engineered with Jetpack Compose and powered by the Shizuku API. Majician gives
 - [officialzeroxyz/zero-plugins](https://github.com/officialzeroxyz/zero-plugins) - 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email for professionals and teams
