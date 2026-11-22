@@ -243,7 +243,6 @@
 ## hacktoberfest 
 
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-- [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [altmann/FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
@@ -350,6 +349,7 @@
 - [reinistihovs/Hibernate-Unplugged-Closed-Laptop](https://github.com/reinistihovs/Hibernate-Unplugged-Closed-Laptop) - Powershell script to automatically hibernate Windows if the lid is already closed and laptop still running and power cable gets disconected.
 - [ajmandourah/autorefresh](https://github.com/ajmandourah/autorefresh) - Plex autorefresh is a tool which can be triggered to forcefully refresh a certain content metadata.
 - [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext) - Add context menu to macOS Finder
+- [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
 - [thexmanxyz/network-share-reconnecter](https://github.com/thexmanxyz/network-share-reconnecter) - This project contains a VB script and a Windows scheduler task to automatically reconnect disconnected network shares / drives on login or resume.
 - [alceu-moreira/auto-loudnorm](https://github.com/alceu-moreira/auto-loudnorm) - Command line interface for performing an automatic two-pass loudness normalization on FFmpeg loudnorm audio filter. 🔊✔️
 - [AnimMouse/ffmpeg-stable-autobuild](https://github.com/AnimMouse/ffmpeg-stable-autobuild) - Automated stable nonfree builds of FFmpeg for Windows using GitHub Actions
