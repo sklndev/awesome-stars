@@ -78,6 +78,7 @@
 
 ## JavaScript 
 
+- [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [a35hie/Fonts](https://github.com/a35hie/Fonts) - A collection of hosted web fonts and stylesheets.
 - [brberis/dev-connect-portfolio-sharing](https://github.com/brberis/dev-connect-portfolio-sharing) - Social media platform designed specifically for developers.  Allowing users to create and share their portfolios, comment, and connect with other professionals.
