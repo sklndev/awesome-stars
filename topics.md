@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent-skills](#agent-skills)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
@@ -18,10 +19,12 @@
 - [chatgpt](#chatgpt)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [cloud](#cloud)
 - [csharp](#csharp)
 - [css](#css)
+- [developer-tools](#developer-tools)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
@@ -48,6 +51,7 @@
 - [linux](#linux)
 - [llm](#llm)
 - [login](#login)
+- [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [monitoring](#monitoring)
@@ -73,6 +77,7 @@
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [tailwindcss](#tailwindcss)
+- [terminal](#terminal)
 - [typescript](#typescript)
 - [ui-design](#ui-design)
 - [video](#video)
@@ -84,6 +89,10 @@
 - [webapp](#webapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
+
+## agent-skills 
+
+- [LemonFace0309/charles-skills](https://github.com/LemonFace0309/charles-skills) - Skills for Claude Code and Codex: design craft, reel editing, quality-of-life helpers, and every skill from my reels
 
 ## ai-agents 
 
@@ -145,14 +154,24 @@
 
 ## claude 
 
+- [m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar) - Menu bar status indicator for Claude Code
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
 ## claude-code 
 
+- [LemonFace0309/charles-skills](https://github.com/LemonFace0309/charles-skills) - Skills for Claude Code and Codex: design craft, reel editing, quality-of-life helpers, and every skill from my reels
+- [m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar) - Menu bar status indicator for Claude Code
+- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+## claude-skills 
+
+- [LemonFace0309/charles-skills](https://github.com/LemonFace0309/charles-skills) - Skills for Claude Code and Codex: design craft, reel editing, quality-of-life helpers, and every skill from my reels
 
 ## cli 
 
+- [m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar) - Menu bar status indicator for Claude Code
+- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 
 ## cloud 
@@ -172,6 +191,10 @@
 - [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [MAGGIx1404/Textify-js](https://github.com/MAGGIx1404/Textify-js) - Next Generation Text Animation Library. (Adding Typescript support...)
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+
+## developer-tools 
+
+- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 
 ## devops 
 
@@ -222,6 +245,7 @@
 
 ## git 
 
+- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [JuanOrbegoso/Dotfiles-for-Windows-11](https://github.com/JuanOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 
 ## github 
@@ -297,6 +321,10 @@
 
 - [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source Auth0/Keycloak alternative. Passkeys, SSO, MFA, passwordless, biometric login. Self-hosted or cloud. Enterprise-ready for SaaS & mobile apps
 
+## macos 
+
+- [m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar) - Menu bar status indicator for Claude Code
+
 ## markdown 
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
@@ -329,6 +357,7 @@
 
 ## others 
 
+- [JeremyMorgan/Claude-Code-Reviewing-Prompts](https://github.com/JeremyMorgan/Claude-Code-Reviewing-Prompts) - Prompts for doing code reviews with Claude Code
 - [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 - [udmodz0/majician](https://github.com/udmodz0/majician) - Majician (UDMODZ Edition) is a next-generation Android system tuning, device identity customization, and spoofing utility engineered with Jetpack Compose and powered by the Shizuku API. Majician gives
 - [officialzeroxyz/zero-plugins](https://github.com/officialzeroxyz/zero-plugins) - 
@@ -493,6 +522,11 @@
 
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 
+## terminal 
+
+- [m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar) - Menu bar status indicator for Claude Code
+- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
+
 ## typescript 
 
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
@@ -500,6 +534,7 @@
 
 ## ui-design 
 
+- [LemonFace0309/charles-skills](https://github.com/LemonFace0309/charles-skills) - Skills for Claude Code and Codex: design craft, reel editing, quality-of-life helpers, and every skill from my reels
 - [khang-nd/7.css](https://github.com/khang-nd/7.css) - A JS-independent, tree-shakeable CSS framework for building faithful recreations of the Windows 7 UI.
 
 ## video 
