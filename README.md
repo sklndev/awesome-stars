@@ -78,6 +78,7 @@
 
 ## JavaScript 
 
+- [LemonFace0309/charles-skills](https://github.com/LemonFace0309/charles-skills) - Skills for Claude Code and Codex: design craft, reel editing, quality-of-life helpers, and every skill from my reels
 - [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [a35hie/Fonts](https://github.com/a35hie/Fonts) - A collection of hosted web fonts and stylesheets.
@@ -111,6 +112,7 @@
 
 ## Others 
 
+- [JeremyMorgan/Claude-Code-Reviewing-Prompts](https://github.com/JeremyMorgan/Claude-Code-Reviewing-Prompts) - Prompts for doing code reviews with Claude Code
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [socalccna54/oneplus13](https://github.com/socalccna54/oneplus13) - Debloat List
@@ -197,10 +199,12 @@
 
 ## Swift 
 
+- [m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar) - Menu bar status indicator for Claude Code
 - [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext) - Add context menu to macOS Finder
 
 ## TypeScript 
 
+- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email for professionals and teams
 - [nonbili/meron](https://github.com/nonbili/meron) - Fast, secure email client with chat and kanban views.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
